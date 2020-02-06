@@ -1,6 +1,6 @@
 # Python-Tutorial
 Learn Python! Python is a programming language that lets you work quickly and integrate systems more effectively.
-This tutorial will help you learn this useful language: it's a programming guide for non-programmers. I'll be using Python 3.7.6 for this tutorial.
+This tutorial will help you learn this useful language: it's a programming guide for non-programmers. I'll be using Python 3.7.6
 
 # Table of Contents
 [A. Syntax](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/A.%20Syntax.ipynb)
