@@ -11,6 +11,7 @@ This tutorial will help you learn this useful language: it's a programming guide
 <br/>[D3. Tuples](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/D3.%20Tuples.ipynb)
 <br/>[E. Loops](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/E.%20Loops.ipynb)
 <br/>[F1. Strings](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/F1.%20Strings.ipynb)
+<br/>[F2. String Methods](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/F2.%20String%20Methods.ipynb)
 <br/>[G1. Modules](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/G1.%20Modules.ipynb)
 <br/>[G2. Datetime Module](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/G2.%20Datetime%20Module.ipynb)
 <br/>[H1. Creating Dictionaries](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/H1.%20Creating%20Dictionaries.ipynb)
