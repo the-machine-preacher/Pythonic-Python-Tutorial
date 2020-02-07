@@ -3,10 +3,10 @@ Learn Python! Python is a programming language that lets you work quickly and in
 This tutorial will help you learn this useful language: it's a programming guide for non-programmers. I'll be using Python 3.7.6
 
 # Table of Contents
-**Topic: The Basics**
-><br/>[A. Syntax](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/A.%20Syntax.ipynb)
-><br/>[B. Functions](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/B.%20Functions.ipynb)
-><br/>[C. Control Flow](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/C.%20Control%20Flow.ipynb)
+**A-C: The Basics**
+>[A. Syntax](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/A.%20Syntax.ipynb)
+>[B. Functions](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/B.%20Functions.ipynb)
+>[C. Control Flow](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/C.%20Control%20Flow.ipynb)
 
 **Topics: Lists & Tuples**
 <br/>[D1. Lists](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/D1.%20Lists.ipynb)
