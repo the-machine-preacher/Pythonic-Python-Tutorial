@@ -14,7 +14,7 @@ This tutorial will help you learn this useful language: it's a programming guide
 ><br/>[D3. Tuples](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/D3.%20Tuples.ipynb)
 
 **E: Looping**
-<br/>[E. Loops](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/E.%20Loops.ipynb)
+>[E. Loops](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/E.%20Loops.ipynb)
 
 **F: Strings**
 <br/>[F1. Strings](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/F1.%20Strings.ipynb)
