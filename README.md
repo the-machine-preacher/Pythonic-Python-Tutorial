@@ -35,6 +35,7 @@ This tutorial will help you learn this useful language: it's a programming guide
 - [J1. Classes](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/J1.%20Classes.ipynb)
 - [J2. Inheritance and Polymorphism](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/J2.%20Inheritance%20and%20Polymorphism.ipynb)
 - [J3. Class examples](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/J3.%20Class%20examples.ipynb)
+- [J4. J4. List all instances of a given Class](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial/blob/master/J4.%20List%20all%20instances%20of%20a%20given%20Class.ipynb)
 
 # The Pythonic Way!
 I attempted to apply the Python philosophy of writing code to writing this tutorial:
