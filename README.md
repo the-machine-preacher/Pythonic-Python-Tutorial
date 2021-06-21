@@ -5,8 +5,9 @@ This tutorial will help you learn this useful language: it's a programming guide
 # Table of Contents
 **A-C. The Basics**
 - [A. Syntax](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/A.%20Syntax.ipynb)
-- [B. Functions](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/B.%20Functions.ipynb)
-- [C. Control Flow](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/C.%20Control%20Flow.ipynb)
+- [B. Control Flow](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/B.%20Control%20Flow.ipynb)
+- [B1. Errors in Python](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial/blob/master/B1.%20Errors%20in%20Python.ipynb)
+- [C. Functions](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/C.%20Functions.ipynb)
 
 **D. Lists & Tuples**
 - [D1. Lists](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/D1.%20Lists.ipynb)
