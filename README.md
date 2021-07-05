@@ -40,10 +40,10 @@ This tutorial will help you learn this useful language: it's a programming guide
 
 # The Pythonic Way!
 I attempted to apply the Python philosophy of writing code to writing this tutorial:
-- Beautiful is better than ugly.
-- Explicit is better than implicit.
-- Simple is better than complex.
-- Complex is better than complicated.
-- Flat is better than nested.
-- Sparse is better than dense.
-- Readability counts.
+- Beautiful is better than ugly
+- Explicit is better than implicit
+- Simple is better than complex
+- Complex is better than complicated
+- Flat is better than nested
+- Sparse is better than dense
+- Readability counts
