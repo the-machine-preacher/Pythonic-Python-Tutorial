@@ -13,6 +13,7 @@ This tutorial will help you learn this useful language: it's a programming guide
 - [D1. Lists](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/D1.%20Lists.ipynb)
 - [D2. Working with Lists in Python](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/D2.%20Working%20with%20Lists%20in%20Python.ipynb)
 - [D3. Tuples](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/D3.%20Tuples.ipynb)
+- [D4. Zip Function](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial/blob/master/D4.%20Zip%20Function.ipynb)
 
 **E. Looping**
 - [E. Loops](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/E.%20Loops.ipynb)
