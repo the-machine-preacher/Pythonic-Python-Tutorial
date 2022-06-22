@@ -5,6 +5,7 @@ This tutorial will help you learn this useful language: it's a programming guide
 # Table of Contents
 **A-C. The Basics**
 - [A. Syntax](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/A.%20Syntax.ipynb)
+- [A1. User Input](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial/blob/master/A1.%20User%20Input.ipynb)
 - [B. Control Flow](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/B.%20Control%20Flow.ipynb)
 - [B1. Errors in Python](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial/blob/master/B1.%20Errors%20in%20Python.ipynb)
 - [C. Functions](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/C.%20Functions.ipynb)
@@ -35,9 +36,10 @@ This tutorial will help you learn this useful language: it's a programming guide
 
 **J. Object-oriented programming (OOP)**
 - [J1. Classes](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/J1.%20Classes.ipynb)
-- [J2. Inheritance and Polymorphism](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/J2.%20Inheritance%20and%20Polymorphism.ipynb)
-- [J3. Class examples](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/J3.%20Class%20examples.ipynb)
-- [J4. List all instances of a given Class](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial/blob/master/J4.%20List%20all%20instances%20of%20a%20given%20Class.ipynb)
+- [J2. J2. Object-Oriented Programming](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial/blob/master/J2.%20Object-Oriented%20Programming.ipynb)
+- [J3. Inheritance and Polymorphism](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/J2.%20Inheritance%20and%20Polymorphism.ipynb)
+- [J4. Class examples](https://github.com/the-machine-preacher/Python-Tutorial/blob/master/J3.%20Class%20examples.ipynb)
+- [J5. List all instances of a given Class](https://github.com/the-machine-preacher/Pythonic-Python-Tutorial/blob/master/J4.%20List%20all%20instances%20of%20a%20given%20Class.ipynb)
 
 # The Pythonic Way!
 I attempted to apply the Python philosophy of writing code to writing this tutorial:
